@@ -16,6 +16,7 @@ Since the objective is building a model to predict the survivability of a patien
 4.2. Data transformation.
 4.3. Feature analysis:includes: information gain calculation and Features selection.
 4.4. Data mining: There are three data mining techniques that have been used to be compared which are: SVM, decision tree and neural network.
+![image](https://user-images.githubusercontent.com/22997230/191550306-b85877d0-ba15-4a66-8286-2bb47a6f94bd.png)
 ![img_delete](https://user-images.githubusercontent.com/22997230/191520515-f5516c6d-e1aa-4d90-8a0c-67e7e2c39d9b.png)
 ![image](https://user-images.githubusercontent.com/22997230/191501145-c64d332a-d74b-4aa0-a7ab-322913e0a443.png)
 ![image](https://user-images.githubusercontent.com/22997230/191501197-547195b6-ade0-49fd-9bb1-2a4a73f1c767.png)
