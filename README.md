@@ -1,7 +1,7 @@
 # Python_application_for_dataMining
 
 1. Oreview:
-We aim to achieve a prediction model for improving data analysis and cancer reporting in the region of Annaba.
+We aim to achieve a prediction model for improving data analysis and reporting.
 The programming language that have been used in order to implement the tool is Python 3.6, because python has many features that attract the data science and data mining community, Python has an array of useful libraries which helps to explore the concepts of data mining in the best way possible. Data mining is all about probability, mathematical optimization, and statistics, which are all made easy by Python.
 The Scientific Python Development Environment Spyder 4.1.3 has been used, which is designed by and for scientist, engineers and data analysts. It has many built-in features and abilities. 
 Many libraries have been used to implement the tool including sklearn and PyQt5.
