@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  7 17:15:27 2020
-
-@author: Ghanou
-"""
 
 # -*- coding: utf-8 -*-
 """
