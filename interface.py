@@ -17,7 +17,8 @@ from PyQt5.QtWidgets import (QMainWindow, QLabel, QGridLayout, qApp,
 from PyQt5.QtWidgets import QTreeWidget, QTreeWidgetItem
         
 import datamining
-
+   
+   
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
