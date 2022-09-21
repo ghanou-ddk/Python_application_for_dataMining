@@ -8,14 +8,12 @@ Many libraries have been used to implement the tool including sklearn and PyQt5.
 
 2. Description of developed tool: (prototype):
 The tool provide a practical and friendly interface for making the whole data mining process  for cancer registries, from data preparation and cleaning and transformation to feature selection to datamining techniques.
-3. data acquisition:
-Data of cancer deaths and newly diagnosed cases were collected by the Cancer Registry of Annaba in collaboration with the International Agency for Research on Cancer (IARC). the data were collected between 2013 and 2018 these data contain in total 5875 instances and each instance has 162 attributes.
-Since the objective is building a model to predict the survivability of a patient the survivability is used as the class attribute.
-4. process:
-4.1. Data cleaning.
-4.2. Data transformation.
-4.3. Feature analysis:includes: information gain calculation and Features selection.
-4.4. Data mining: There are three data mining techniques that have been used to be compared which are: SVM, decision tree and neural network.
+
+3. process:
+3.1. Data cleaning.
+3.2. Data transformation.
+3.3. Feature analysis:includes: information gain calculation and Features selection.
+3.4. Data mining: There are three data mining techniques that have been used to be compared which are: SVM, decision tree and neural network.
 ![image](https://user-images.githubusercontent.com/22997230/191550306-b85877d0-ba15-4a66-8286-2bb47a6f94bd.png)
 ![img_delete](https://user-images.githubusercontent.com/22997230/191520515-f5516c6d-e1aa-4d90-8a0c-67e7e2c39d9b.png)
 ![image](https://user-images.githubusercontent.com/22997230/191501145-c64d332a-d74b-4aa0-a7ab-322913e0a443.png)
